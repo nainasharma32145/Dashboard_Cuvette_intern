@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cuvette_dashboard_internassi/static/css/main.1438c5a1.css",
+    "main.js": "/cuvette_dashboard_internassi/static/js/main.d0e923a3.js",
+    "static/js/787.545aecf5.chunk.js": "/cuvette_dashboard_internassi/static/js/787.545aecf5.chunk.js",
+    "static/media/logo.png": "/cuvette_dashboard_internassi/static/media/logo.3e36f3347fd98b7a4a48.png",
+    "index.html": "/cuvette_dashboard_internassi/index.html",
+    "main.1438c5a1.css.map": "/cuvette_dashboard_internassi/static/css/main.1438c5a1.css.map",
+    "main.d0e923a3.js.map": "/cuvette_dashboard_internassi/static/js/main.d0e923a3.js.map",
+    "787.545aecf5.chunk.js.map": "/cuvette_dashboard_internassi/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1438c5a1.css",
+    "static/js/main.d0e923a3.js"
+  ]
+}
